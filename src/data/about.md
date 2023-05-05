@@ -1,3 +1,0 @@
-I am a graduate from the University of Toronto with a bachelors in computer science (specializing in software engineering) and statistics. I used to work in the University of Toronto and Scotiabank. 
-
-I have experience in engineering large software platforms, developing machine learning pipelines, deploying web apps, APIs, and producing advanced data analysis. I have also done multiple projects revolving around software development and machine learning. I love spending time fixing little details and optimizing my software architecture. 
