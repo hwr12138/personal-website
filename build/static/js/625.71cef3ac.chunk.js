@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpersonal_website=self.webpackChunkpersonal_website||[]).push([[625],{9625:function(e,s,t){e.exports=t.p+"static/media/about.973af68cc226310c884b.md"}}]);
