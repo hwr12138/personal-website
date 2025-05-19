@@ -1,0 +1,4 @@
+- I am a well-rounded software engineer with a strong foundation in computer science and statistics. My expertise spans various areas of software development, underpinned by a deep interest in the intersection of technology and finance.
+- I am particularly passionate about AI and Machine Learning, fintech innovations, and the fascinating world of quantitative investing. I enjoy applying my technical skills to complex problems within these domains, constantly seeking to learn and build solutions that leverage data and algorithms effectively.
+- My academic background in Computer Science and Statistics, complemented by specialized studies in AI & ML, has equipped me with the analytical and technical skills necessary to navigate these exciting fields.
+- I am always eager to connect with others who share similar interests and explore new opportunities to contribute to the ever-evolving landscape of technology and finance.
