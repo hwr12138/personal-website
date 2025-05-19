@@ -25,7 +25,7 @@ Ensure you have [node](https://nodejs.org/) >= v16. Optionally, use [nvm](https:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hwr12138/personal_website.git
+   git clone https://github.com/hwr12138/personal-website.git
    cd personal-website
    ```
 
