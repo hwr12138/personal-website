@@ -11,12 +11,12 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://www.linkedin.com/in/haowenruiprofile/',
+    link: 'http://www.linkedin.com/in/anson-rui',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:anson7812@gmail.com',
+    link: 'mailto:anson010119@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

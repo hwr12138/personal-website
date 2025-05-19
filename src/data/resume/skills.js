@@ -15,16 +15,6 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Haskell',
-    competency: 3,
-    category: ['Languages'],
-  },
-  {
-    title: 'Flutter',
-    competency: 3,
-    category: ['Languages'],
-  },
-  {
     title: 'GoLang',
     competency: 2,
     category: ['Languages'],
@@ -45,18 +35,13 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'Bash',
-    competency: 4,
-    category: ['Tools', 'Languages'],
-  },
-  {
     title: 'AWS',
     competency: 4,
     category: ['Tools'],
   },
   {
     title: 'GCP',
-    competency: 4,
+    competency: 3,
     category: ['Tools'],
   },
   {
@@ -91,7 +76,7 @@ const skills = [
   },
   {
     title: 'Neo4j',
-    competency: 2,
+    competency: 3,
     category: ['Databases'],
   },
   {
@@ -101,7 +86,7 @@ const skills = [
   },
   {
     title: 'Git/Bitbucket',
-    competency: 4,
+    competency: 5,
     category: ['Tools'],
   },
   {
@@ -130,11 +115,6 @@ const skills = [
     category: ['ML', 'Python'],
   },
   {
-    title: 'Jupyter',
-    competency: 4,
-    category: ['Tools'],
-  },
-  {
     title: 'Typescript',
     competency: 2,
     category: ['Languages', 'Javascript'],
@@ -151,7 +131,7 @@ const skills = [
   },
   {
     title: 'C++',
-    competency: 4,
+    competency: 5,
     category: ['Languages'],
   },
   {
@@ -178,11 +158,6 @@ const skills = [
     title: 'Django',
     competency: 4,
     category: ['Python'],
-  },
-  {
-    title: 'Apache Airflow',
-    competency: 3,
-    category: ['Tools'],
   },
   {
     title: 'Matplotlib',
